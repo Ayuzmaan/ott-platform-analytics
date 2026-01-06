@@ -107,4 +107,12 @@ The analysis helps evaluate:
 
 - Open the Jupyter notebook to review the Python enrichment and EDA process.  
 - Run SQL files sequentially in SQLite Studio in the following order:
+- Use the Tableau Public Story link for interactive exploration of dashboards.
+
+---
+
+## Author
+
+**Ayushmaan Bhatia**  
+Data Analyst | Portfolio Project | 2026
 
